@@ -56,12 +56,6 @@
     uri: https://github.com/osrf/capabilities.git
     version: master
 
-# Others
-# adds support for range sensors for Gazebo simulation - replace with main repo once Alex's PR is merged
-- git:
-    local-name: pal_gazebo_plugins
-    uri: https://github.com/AlexReimann/pal_gazebo_plugins.git
-    version: range_only
 # ROS driver for RPLIDAR
 - git:
     local-name: rplidar_ros
