@@ -8,7 +8,7 @@
 - git: {local-name: 'gopher_navigation',       version: 'devel', uri: 'https://bitbucket.org/yujinrobot/gopher_navigation.git'}
 - git: {local-name: 'gopher_motion_control',   version: 'devel', uri: 'https://bitbucket.org/yujinrobot/gopher_motion_control.git'}
 - git: {local-name: 'grid_map',                version: 'devel', uri: 'https://github.com/yujinrobot/grid_map.git'}
-- git: {local-name: 'navigation',              version: 'devel', uri: 'https://github.com/yujinrobot/navigation.git'}
+- git: {local-name: 'navigation',              version: 'indigo-devel', uri: 'https://github.com/ros-planning/navigation.git'}
 - git: {local-name: 'navigation_layers',       version: 'devel', uri: 'https://github.com/yujinrobot/navigation_layers.git'}
 - git: {local-name: 'obstacle_detection',      version: 'devel', uri: 'https://bitbucket.org/yujinrobot/obstacle_detection.git'}
 - git: {local-name: 'yujin_ocs',               version: 'devel', uri: 'https://github.com/yujinrobot/yujin_ocs.git'}
